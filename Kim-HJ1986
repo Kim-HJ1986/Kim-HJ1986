@@ -1,0 +1,10 @@
+        ```{.java}
+        public static void Student(){
+          int studentNum;
+          String studentName;
+        public Student(studentNum, studentName){
+          this.studentNum = studentNum;
+          this.studentName = studentName;
+          }
+        }
+        ```
