@@ -3,3 +3,4 @@
 앞으로 꾸준히 학습하며 직접 써본 코드들과 느낀점들을 위주로 업로드 해보겠습니다.  
 
 velog url: https://velog.io/@rlafbf222
+TIL: https://velog.io/@rlafbf222/series/TIL
