@@ -11,4 +11,4 @@
 TIL: https://velog.io/@rlafbf222/series/TIL ✔✔
 
 ## ▶현재 진행 중인 프로젝트..
-반려견 산책 친구 매칭 서비스 <a href="https://mungfriend.com">🦮 멍친구</a>
+<a href="https://pf.kakao.com/_xfnLUxj"> 🧥👔👖👞 Style Chat</a>
